@@ -1,2 +1,1 @@
 from c1
-from c2
